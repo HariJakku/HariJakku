@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/harijakku" target="blank"><img src="https://img.shields.io/twitter/follow/harijakku?logo=twitter&style=for-the-badge" alt="harijakku" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development using DJANGO**
+- 🌱 I’m currently studying **Computer Science and Engineering at Seshadri Rao Gudlavalleru Engineering College**
+
 
 - 👨‍💻 All of my projects are available at [https://kumarswamijakku.netlify.app/](https://kumarswamijakku.netlify.app/)
 
