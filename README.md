@@ -39,7 +39,7 @@ Built and deployed solo. 100% free.
 
 ---
 
-### [Software Defect Prediction](https://github.com/HariJakku/software-defect-prediction) — Springer LNCS Published
+### [Software Defect Prediction Using an Intelligent Ensemble System](https://github.com/HariJakku/software-defect-prediction)  
 > Python · scikit-learn · LightGBM · Flask · JWT · NASA MDP Datasets
 
 Two-stage stacking ensemble (RF + SVM + NB + MLP → LightGBM meta-learner) achieving **93.5% accuracy**
